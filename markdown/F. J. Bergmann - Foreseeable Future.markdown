@@ -1,0 +1,26 @@
+---
+title: '[]{#_v6n88fpbwswb .anchor}F. J. Bergmann - Foreseeable Future'
+---
+
+Because each picture holds a fragment of its creator, a small soul,
+incomplete, if you will, it is useful to look for omens in its
+delineations, hidden meanings in the interplay of light and dark. In
+other words, advice. That is why people who failed at everything else
+can still make a living reading Tarot cards or Rorschach blots. But in
+this modern do-it-yourself world, any image on a billboard or in a
+glossy magazine will serve as a counselor.
+
+This photograph, of two women in expensive black leather who regard you
+with contempt, is obviously telling you that you will never rise above
+your current tax bracket. On the next page, the arabesqued dome of the
+mosque, blue as the happiest of skies, reflected in still water, is a
+reminder that you are overdue for your annual mammogram.
+
+The painting of a wrecking-ball swung against a slightly less-happy sky,
+as well as the subsequent view of exposed brickwork, stairs that lead
+nowhere, and a dangling bare light-bulb, are meant to encourage you to
+undertake major remodeling projects. Pay no attention to the number 4,
+the locked black box, or the anguished human figure transfixed in
+mid-fall.
+
+first appeared in *Futures Trading*

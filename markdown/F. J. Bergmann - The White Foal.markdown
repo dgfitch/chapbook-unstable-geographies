@@ -1,0 +1,88 @@
+---
+title: '[]{#_kgs82fd4qw1e .anchor}F. J. Bergmann - The White Foal'
+---
+
+At that time, I lived with my grandmother in the Camargue, the marshy
+delta where the Rhône river widens and opens into the Mediterranean sea.
+My parents, whom I could almost no longer remember, were dead. They had
+left no inheritance, but in truth, Grand-mère, who was skilled with
+remedies, was not in any need. It was whispered in the marketplace that
+she was a sorceress---but well-liked by the local folk who owed their
+health or lives to her.
+
+Grand-mère did not make me work very much. With the wisdom of great age,
+she let me roam, carefree, on the marsh and its waters, along the
+shores. She said, "There will be time, when you are older, to learn your
+duties. But now, now is the golden summer of your childhood."
+
+The water was my life. Grand-mère had taught me to swim right away.
+
+"A good sorceress is always prepared for any eventuality," she assured
+me.
+
+She gave me a little boat, just for me. In my coracle, I navigated the
+marshes, ponds and lagoons, to the deepest currents of the river and
+along the seacoast.
+
+But what I wanted more than anything was one of the wild horses of the
+Camargue. Storm-gray or white as clouds without rain, I watched them
+from far off, silhouetted against the horizon, passing like pale shadows
+through the reeds, or swimming across the deep waters. They were also in
+the marketplace: mastered, mounted, harnessed, tamed, broken. What I
+desired was not that, but that one of the wild foals would befriend me,
+of its own free will.
+
+I had tried to pursue them on foot or in my coracle, but galloping or
+swimming, the horses were too fast---I was never able to so much as
+touch the end of a tail. They seemed made of magic, atmospheric, in the
+same way as the rose-colored flamingoes and the herons that flew off in
+a great rustle of wings no matter how silently I approached them.
+
+One afternoon, I had wandered a great distance along the beach, without
+a care---but Grand-mère had shown me a species of little spotted shell,
+of great value for her medicines, and I wanted to please her. I had
+found two of the shells; sunset was not far away. Returning to where I
+had drawn up my boat, I saw a small white shape, almost silvery,
+stretched out on the sand. *A drowned foal---oh, no!* I thought, and I
+began running toward it.
+
+Weeping, I knelt at its side. But it still breathed. Its eyes opened.
+Blue eyes, eyes of azure, like the sea, like the sky.
+
+All the other horses I had ever seen had brown eyes.
+
+I had not recovered from my surprise when the little colt spoke to me in
+a soft, childlike voice.
+
+"I am dying from the heat of the sun. Please, I beg you, pull me into
+the cool sea."
+
+This was the companion of my dreams, but for an instant or two I
+remained immoblie.
+
+"Have pity on me; I am burning!"
+
+I began tugging him toward the water. Gods, he was heavy.... But I
+persevered; the tide was rising and finally a wave caught and lifted
+him, and he curled his long legs under him. He nosed me gently with his
+soft muzzle, catching my eyes in his blue gaze.
+
+"Mount on my back; we will swim away and be friends forever."
+
+He seemed to swell, as if he were growing larger moment by moment,
+floating at his ease. Under the waves, I could see the glint of scales
+beginning along his haunches: no longer legs, but a tail like a fish.
+
+"I will take you to your parents."
+
+I knew his last promise was no lie. I also recognized his attempt to
+bewitch me. I looked away and took care not to meet those blue eyes with
+my own again. I dragged my boat further up into the dunes, where the
+tide could not reach it, and went the long way home, on foot through the
+marshes---I would have to be very cautious at the edge of the sea from
+now on, but Grandmère would use her arts see to my safety.
+
+Someday, I hope a very long time from now, when I finally want to die, I
+will find the white colt once more.
+
+first appeared in *Abyss & Apex*

@@ -1,0 +1,20 @@
+---
+title: '[]{#_25d689h28cba .anchor}Andy Dibble - One Last Belly Rub'
+---
+
+When my dog died, I believed he would be back in a few days. If a
+carpenter from Nazareth could manage it, Toby could. And if I could
+descend like Orpheus, I'd find him guarding the gates of the Underworld,
+howling and hopping on his hind legs, like he did in life when the
+doorbell rang.
+
+Three days and no Toby, so I thought he would return after nine nights,
+like Odin from the world tree. Not with runes, but with a vole he scared
+up from a hole in the backyard.
+
+He didn't come in, wet and muddy-pawed, so I cleaved with still greater
+scientific rigor to a new theory. Toby is like the Buddha, who will
+return at the end of the world to give one last sermon, his body
+reassembling from where it's scattered in sixty-four thousand
+reliquaries. Just so, at the end of all things, Toby will return for one
+last belly rub.

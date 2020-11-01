@@ -1,0 +1,78 @@
+---
+title: '[]{#_sslgzx9nezgo .anchor}Bhim Nimgade - Harvest for the Dying'
+---
+
+Our team has streamed into the bleached zones, looking for the faded
+blue of the dying eyes of the last creatures of a dying race. The
+streaming, because nobody can go there in flesh bodies, is necessary,
+but it is not perfect. Across the hot, hot sands, our human-type bodies
+would require such expensive protection and infrastructure that the
+funding groups would never acquiesce.
+
+Still, those dying eyes must be found. Every one that sinks to the
+heated ground and closes forever, to shrivel away, is a wasted treasure,
+and opportunity. They have lived, and breathed, and thought, and
+struggled, and then have come to the end. But yes, we can still glean
+and gather what we can, and while we can.
+
+The sky is pale and hot. Radiation pours down from the sky, visible
+light of course, but also other ferocious frequencies. There is no sun,
+no focal point, for these energies, but they come down on us from all
+angles, from everywhere. There is no escape from their merciless glare.
+
+Traversing a hillock, strewn with stones, it is hard to not to feel like
+any step could be a wrong step, leading to a stumble, and then a fall to
+perdition. But we are streaming. In a sense, we are not really there.
+
+Our prey is not hiding. There is precious little cover, just endless
+undulating lands with stones and sand and sandless domes of rock. But
+those that we seek are small, in this vastness, and there are not many
+of them.
+
+Each life, I think, is a world; and a life lost, is a world lost. And so
+I stride, virtually, across the land, searching, far from the others on
+my team, but still connected, somehow. I don't see them, and they don't
+see me, but we all trust that we are there, and connected, to each
+other, and to our leader, and to Central..
+
+There - a hint of something in the distance, something not a rock or
+stone or sand. I pick up my pace. I turn down the contrast in my
+visuals, turn down the brightness, and there it is. One of the dying.
+
+It does not turn to look at me as I approach. I do not know, but I don't
+think that there is anything for it to see, or to hear. It is dying -
+they all are. And I am here, in time, to bear witness, and to do the
+gleaning. It is still standing, supporting itself above the hot ground,
+but it won't be for long, it seems. Its ungainly limbs seem to quiver,
+like a distant mirage. I have to prepare for the capture.
+
+Its head is dipping, and its eyes are closing. They open just a little
+bit, sometimes, showing a touch of bleached and faded blue, and then
+they start to close again. In the silence, so close to it, its breath
+becomes audible, if it is indeed breathing. Something slow, and raggedly
+rhythmical. There is so much light, and I inject it into my body, my
+not-there body, and I let my arms rise up and embrace this creature. I
+absorb into myself the images, the sense-impressions, the attachments,
+the kaleidoscope of emotional states, the memories, the whirling
+cacophony of wisdom and venality and kindness and brutality. It washes
+over me and through me in a rush, too fast for me to experience any one
+thing, but rather experiencing it all at once.
+
+It was forever in a moment, a world in a grain of sand. I stepped back,
+overcome.
+
+"Go, then," I said. "Your days have come to an end. You are walking from
+the lands of the living, to another land. All those fetters which have
+bound you to this existence are falling away."
+
+I had a vision, from another world far away, of bhikkhus with their
+palms pressed together, chanting and bowing gently forward, welcoming
+another creature to glide from one state of existence to the next. That
+image, or memory maybe, has always helped to comfort and steady me, on
+each mission. I shared it; though I do not know if it helped this lone
+creature, in its passing, on this strange world far away.
+
+I feel the call from Central. Time to depart. Even our streaming virtual
+bodies have to flee this place. The world shimmers and dissolves, and
+everything that I am attenuates into a stream of dancing particles, and
+my final memory is the acrid smell of stardust.

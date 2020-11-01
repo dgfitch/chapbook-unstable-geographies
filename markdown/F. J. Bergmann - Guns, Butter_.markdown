@@ -1,0 +1,17 @@
+---
+title: '[]{#_nkqgvksyxgkn .anchor}F. J. Bergmann - Guns, Butter'
+---
+
+He was buttering the guns again, a Sunday night ritual. He had warmed
+the butter in the microwave until it softened just enough to sag
+slightly, but when he smeared it on the steel, I could smell butter
+melting in a cast-iron skillet, sizzling gently, waiting for a couple of
+eggs or prairie oysters. Or mountain oysters. Mountain oysters, now: I
+imagine them lurking in the canyons lining narrow clefts in the
+sandstone with shoals of ragged shells; wary, feral bivalves crowded
+together in unreachable gaps, They would murmur ancient incantations to
+their fossil brothers deep in the sedimentary rock. Wherever the shadows
+did not move, the stone would still hold the metallic scent of the
+ocean's cold memories.
+
+first appeared in *Mississippi Review*

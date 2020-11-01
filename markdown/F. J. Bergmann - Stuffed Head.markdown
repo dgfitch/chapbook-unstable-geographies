@@ -1,0 +1,20 @@
+---
+title: '[]{#_4u2u8qsh34cw .anchor}F. J. Bergmann - Stuffed Head'
+---
+
+The Vrekli had charged him a small fortune for the gene-tailored
+symbiotes, and it had taken weeks for him to get used to the squirming
+feeling in his nasal passages, but it was worth it to be at long last
+rid of the allergies that had made his life a misery since childhood.
+The tiny slime worms reliably devoured every speck of pollen, every
+fragment of dust-mite, every molecule of each airborne allergen that had
+plagued him in the past, before they could cause the vestige of a
+reaction. What he shouldn't have done was to spring for the
+recreational-hallucinogen nanobot inhaler on Chur'r. There seemed to be
+a struggle for supremacy going on inside his sinuses---some kind of
+hierarchical dispute\--and even though he was zoned to the gills, he had
+now been sneezing nonstop for at least two hours. The spasms were
+simultaneously a delightful metaphor for a pervasive sense of oneness
+with the universe, and absolutely unbearable.
+
+first appeared in *Metaphoresis*

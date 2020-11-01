@@ -1,0 +1,58 @@
+---
+title: '[]{#_dh9aeqdapei .anchor}F. J. Bergmann - Enter Here'
+---
+
+*It took me years to become this.*
+
+To become *what?* You live in a half-burned-out trailer in the woods.
+You don\'t even have a job or a car anymore. Christ, you\'re not safe on
+your own.
+
+*I studied leaves by day and stars by night. In winter I studied the
+light on snow. On cloudy nights I studied the memory of stars.*
+
+If by \"studying\" you mean drinking that homemade hooch you call
+moonshine and looking out the window, yeah, I guess you can call that
+studying. If you had a TV at least you might learn something. This
+herbal tea you made is really crappy.
+
+*I went into myself and out the other side, and I went on.*
+
+You mean that bad acid trip or whatever when you spent a month in the
+county mental hospital? Good thing the state picked up the tab. That
+shrink, Dr. Chandra? She seemed worried about you. You\'re still seeing
+her, aren\'t you? Aren\'t you?
+
+*I opened a path for others. I lit lamps and placed them along the way.*
+
+Yeah, they were *really* happy about the fire. Lucky for you they
+decided it wasn\'t worth pressing arson charges against someone already
+in a mental hospital. Too bad the middle school wouldn\'t give you back
+the janitor job.
+
+*Here, the door is always open, and the light of the lamps shines
+through.*
+
+I\'d keep that door to the burned part shut if I was you; it really
+stinks in there. I think some kind of animal got in; I can hear \'em
+rustling around. Vermin. And I told you a zillion times those kerosene
+lamps aren\'t safe. To say nothing of trying to heat a house trailer
+with a woodstove. I don\'t know why I bother. When are you going to grow
+up?
+
+*Our guests cannot enter without invitation. I greet them at the
+threshold.*
+
+You\'re not taking your meds, are you? Nobody comes here except me, and
+you\'re lucky I promised Ma and Pop I\'d take care of you. I brought you
+a bunch of stuff that was on sale \'cause it got freezer-burnt. Come to
+think of it, I never got you tea, though. Was it left over from before?
+It wasn\'t leaves you picked in the woods, was it? What was in that tea
+I drank?
+
+*Welcome them to our world, sister.*
+
+The door is standing open. Whose clawed fingers reach through? It\'s
+getting dark too soon.
+
+first appeared in *Eschatology*

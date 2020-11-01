@@ -1,0 +1,15 @@
+---
+title: '[]{#_ufo25diu0qwt .anchor}F. J. Bergmann - Astroculture'
+---
+
+He hadn't always wanted to be a star farmer. Frankly, when Great-Uncle
+Garafal left him the desert tract, with its sparse, wartlike cacti and
+decrepit shack, he had hoped to sell the place, and quick. But on a
+whim, he'd spent the night there, on the old man's rickety cot, and when
+he woke from a dream he was lucky enough to forget immediately, heart
+pounding in the unfamiliar dark, and went to take a leak in what passed
+for a garden, he saw them shining between clumps of dry grass like
+exuberantly flung glitter, their suspicious little eyes staring up at
+him.
+
+first appeared in *The Binnacle*

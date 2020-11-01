@@ -1,0 +1,87 @@
+---
+title: '[]{#_ngbukdv938f6 .anchor}F. J. Bergmann - Thrall'
+---
+
+I had hidden among the dark trees and thick undergrowth at the top of
+the hill since just before sunset. Now the stars were coming out,
+despite the glare of streetlights and shopping plazas from the town
+below. It was a school night, so the kids were getting an early
+start---I hadn't needed to wait long. Evening dew was already misting
+the dead leaves under the high, cold light of the cosmos. I had never
+wanted anything but peace and quiet in my life, nor had I ever been the
+violent sort. Fate plays odd tricks on us sometimes.
+
+As the cars parked one by one at a discreet distance from each other, a
+beginning throb of unnatural lust was not welcome, even though it warmed
+me. Once again I felt myself being tugged forward by what I desperately
+wished to dissociate myself from. *Not me! Not a part of my body* \...
+What had I done to deserve this? Why was I afflicted with such horrible
+desires?
+
+I waited until the car farthest beneath the shadow of the forest canopy
+began to rock gently. A quick glance at the other vehicles showed their
+occupants' attention was equally focused on private matters. My skin
+tingled with heat, but all the energy seemed to focus on a specific part
+of my anatomy. Though I had thought many times of removing it, I was not
+strong enough---the half-hearted attempts using household implements had
+been too painful for me to persevere.
+
+I crept along the ground, snaking silently through the bushes. My
+clothes were stained dark with age and use, and my skin was naturally a
+dark shade; I would have appeared no more than a moving shadow cast by
+the branches overhead. Sharp pebbles bruised my knees, and the heel of
+my hand was punctured by thorns, but the pain could not prevent me from
+going forward; I had almost completely lost voluntary control of my
+muscles. As I approached the passenger side of the car, I noticed a
+patch of mud gleaming on the ground just below the door. *Perhaps there*
+is *a way to end this, after all.*
+
+I diverted my trajectory slightly, so that my left hand and knees
+plunged into the gooey muck. As the terrible hook that had replaced my
+lost right hand reached for the door handle, my body began to climb to
+its feet, and---as I had prayed---slipped in the mud. I fell against the
+side window with a heavy thump; for just an instant, I was merely a dead
+weight, my face and the hook clearly visible through the glass. A siren
+shriek rose from within, then the noise of terrified scrambling, and the
+locks clicking shut.
+
+Before I could rise again to a standing position from the slippery
+footing, the engine caught with a roar. The car reversed rapidly in a
+half-circle, my hook firmly caught in the door handle. I could have wept
+in disappointment when, without my conscious volition, my muddy,
+dripping left hand also took hold of the handle as the car shifted into
+forward gear and shot away. But as the accelerating car gyrated down the
+gravel fire road, swaying wildly from side to side as it bounced on the
+bumps and potholes, the ooze coating my left hand made a secure grip
+difficult to maintain. Finally, the car sideswiped a small sapling, and
+my enslavement was over! I watched the tail-lights disappear downhill as
+a faint and festive jingling came from the detached, demonic metal hook
+dangling from the car door.
+
+I thrust my stump high aloft in exultation. *Yes! Free at last!* There
+was little bleeding or oozing. I looked about for another car containing
+a friendly young couple who could be prevailed upon to disengage long
+enough to take me to the emergency room. They would be safe; it was only
+the hook, the horrible hook, that had inflicted the obsessive
+perversions I had felt compelled to pursue.
+
+The constellations were still brightening overhead, and a meteor flashed
+briefly across the sky. Over countless eons, some of those shooting
+stars and their fragments had fallen to the planetary surface, sources
+of rare, elemental metals that, originally, could not be mined by
+humans. Who knew where and how the endless cycle of their forging and
+reforging into weapons, tools, and machines might have ultimately caused
+those metals to be employed? Coming from the unutterable reaches of
+space, what hideous entities might have sent them, for what nefarious
+purpose?
+
+This time, I vowed, no metal bits *anywhere* in the prosthesis---just
+nice, inert, flesh-colored plastic. Even if it didn't at all match the
+actual greyish-black hue of my decomposing skin. And then back to my
+happy, routine existence. With luck, there would be some rotting
+surgical remains in the dumpsters behind the hospital after I was
+discharged; otherwise, there was never a shortage of roadkill. The
+thought of eating fresh, *living* flesh was disgusting: I was back to
+normal again!
+
+first appeared in *Weird Mask Zine*

@@ -1,0 +1,21 @@
+---
+title: '[]{#_cwa4uw7lq214 .anchor}F. J. Bergmann - Solitude'
+---
+
+If I spent a year trapped in meditation, I would go crazy. They would
+put me in a cell by myself and the staff would be afraid to get close to
+me. I would claw myself until something ripped open and dance until my
+blood spattered the walls; then I'd examine the blotches for hidden
+meanings, the Rorschach of the heart. I would kiss and lick the spots
+that suggested genitalia, human or otherwise. Love and hate would be my
+best friends, and we would all hold hands and scream together. When I
+cry out, I feel interactive, like a musical instrument, an Aeolian harp
+fingered by invisible winds. My art materials may be crude, but through
+these stained walls I teach myself to feel the limits of space. How big
+it is. At each corner, another planet begins again, just over the line.
+I am bringing the outdoors in; this is a conservatory of the
+macrocosmic: potted jungles, hope sprouting like a cutting stabbed into
+a trench, an aquarium of salt-water longing with a shark staring through
+the glass wishing and wishing it could trade places with you.
+
+first appeared in *21 Stars Review*

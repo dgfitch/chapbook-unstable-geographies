@@ -1,0 +1,79 @@
+---
+title: |
+    []{#_k334uccry95q .anchor}Daniel G. Fitch - On Stellar Winds, Writhing
+    Ecstatic
+---
+
+On stellar winds,
+
+writhing ecstatic
+
+bonds of familiar
+
+flavors flowing,
+
+forming and parting
+
+in dances electrical,
+
+we sing together.
+
+(This is a metaphor.
+
+There is no sound
+
+in the spaces
+
+we travel now.)
+
+Having left behind
+
+gravity and all its
+
+well-intended bonds,
+
+having left behind
+
+scarcity and all its
+
+multitudinous scars,
+
+having left behind
+
+humanity and all its
+
+many-faceted ills;
+
+Having left behind
+
+death and all its
+
+fear and uncertainty,
+
+having left behind
+
+family and all its
+
+faulty fractured logic,
+
+having left behind
+
+most of what we
+
+thought we needed;
+
+Having left behind
+
+war, oppression, oaths,
+
+faith, love, hope,
+
+terror, hatred, pain,
+
+memory, bodies, brains;
+
+On stellar winds,
+
+writhing ecstatic,
+
+we sing together.

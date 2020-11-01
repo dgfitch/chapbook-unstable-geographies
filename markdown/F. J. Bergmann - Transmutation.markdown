@@ -1,0 +1,20 @@
+---
+title: '[]{#_14cxv5mb2w9 .anchor}F. J. Bergmann - Transmutation'
+---
+
+One delusion that would be disturbing, if I had it, is the idea that
+inside any layered surface, any covered object, the thing underneath
+constantly changes its identity, unseen. The table, invisible beneath
+the tablecloth, takes on a blood-red opalescence, subsequently becomes
+checkered malachite and chalcedony, and after that a conservative tweed.
+The foam rubber inside the sofa cushions is transformed in sequence to
+spun sugar, a cheese soufflé, wads of small dead birds. The sub-flooring
+momentarily becomes solid platinum, then asbestos foam, briefly
+materializes as a huge sheet of peanut brittle, and, finally,
+radioactive ice. Under my clothes where no one can see, my skin tingles
+with flamingo-pink feathers, followed by bird\'s-eye maple, blued steel,
+mercury amalgam, a jaguar's maculate golden pelt; I feel each
+transformation trickle across my flesh. Beneath my skull something is
+changing to an entirely different substance.
+
+first appeared in *Zen of the Dead*
