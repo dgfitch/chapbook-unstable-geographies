@@ -1,0 +1,159 @@
+\documentclass[letterpaper,12pt,oneside,openany]{memoir}
+\setulmarginsandblock{3.5cm}{3.5cm}{*}
+\setlrmarginsandblock{2.5cm}{2.5cm}{*}
+
+%\checkandfixthelayout[fixed]
+%\checkandfixthelayout[nearest]
+\checkandfixthelayout
+
+
+\input{settings.tex}
+
+% Ebook-style stuff: graphics and links
+\usepackage[linktoc=all,hidelinks]{hyperref}
+\usepackage{incgraph}
+
+% Don't do facing page stuff
+\renewcommand{\cleardoublepage}{\clearpage}
+
+
+% Hack the TOC to be more flexible
+
+\setlength{\cftbeforepartskip}{1.0em plus 0.5em minus 0.5em}
+% default is 1em plus 0pt
+\setlength{\cftbeforechapterskip}{1.0em plus 0.5em minus 0.25em}
+% default is 1em plus 0pt
+
+\begin{document}
+\pagestyle{empty}
+
+
+{
+\clearpage
+\null\vfill
+
+\begin{flushleft}
+{\small
+\textit{Black Gardens and Other Stories}
+
+\textlcsc{Utilitarian Universalist Press}
+
+© Daniel G. Fitch 
+
+\bigskip
+
+
+LICENSED CC BY-NC-SA 4.0 \\
+This electronic book may be distributed and/or modified under the conditions of the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License available at:
+\begin{chatlog}
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+\end{chatlog}
+
+This book was typeset in \LaTeX\ with the Charter BT font and the following packages:
+  memoir,
+  censor,
+  tikz,
+  lettrine,
+  microtype,
+  csquotes,
+  amssmyb
+
+But who knows what it looks like in your e-reader! You're the typesetter, now.
+
+\bigskip
+
+You can find free ebook and PDF versions of this book on the web, or find out how to buy a physical copy if you like:
+\begin{chatlog}
+http://danielgfitch.com/blackgardens/
+\end{chatlog}
+
+\bigskip
+
+WHAT IS THOUGHT?!?
+
+}
+
+
+\end{flushleft}
+}
+
+
+%\setcounter{page}{0}
+\frontmatter
+
+
+\mainmatter
+%\sloppy
+\raggedbottom
+
+\pagestyle{plain}
+
+
+\input{prologue.tex}
+
+\input{part1.tex}
+\input{ch1.tex}
+\input{ch2.tex}
+\input{ch3.tex}
+\input{ch4.tex}
+\input{ch5.tex}
+
+\input{part2.tex}
+\input{ch6.tex}
+\input{ch7.tex}
+\input{ch8.tex}
+\input{ch9.tex}
+\input{ch10.tex}
+
+\input{part3.tex}
+\input{ch11.tex}
+\input{ch12.tex}
+\input{ch13.tex}
+\input{ch14.tex}
+\input{ch15.tex}
+
+\input{ack.tex}
+
+\input{andotherstories.tex}
+\input{over.tex}
+\input{totem.tex}
+\input{body.tex}
+\input{elves.tex}
+\input{tothetrees.tex}
+\input{halves.tex}
+\input{ashes.tex}
+\input{insuits.tex}
+
+
+%\book{Probably Not}
+
+%\input{gospel.tex}
+%\input{tenwords.tex}
+%\input{leaves.tex}
+%\input{insects.tex}
+%\input{portraits.tex}
+%\input{gaze.tex}
+
+\input{about.tex}
+
+\chapter*{The End of the EPUB}
+
+Whoa. You scrolled all the way to the bottom of this book.
+You deserve a snack. That was probably hard work!
+
+Here, I don't have a snack, but I'll make that web site link an actual link to make it easier to click. Hmm. How does this work?
+
+\begin{chatlog}
+  \href{http://danielgfitch.com}{hey kid, I'm a computer}
+\end{chatlog}
+
+Wait, no. Not quite. Uhh, here we go:
+
+\begin{chatlog}
+  \href{http://danielgfitch.com}{http://danielgfitch.com}
+\end{chatlog}
+
+YESSSSSSSS. INTERNET.
+
+\end{document}
+

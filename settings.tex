@@ -1,0 +1,115 @@
+%\usepackage[latin1]{inputenc}
+\usepackage[utf8]{inputenc}
+
+\usepackage[T1]{fontenc}
+%\usepackage{newpxtext,newpxmath}
+%\usepackage{tgtermes}
+\usepackage{charter}
+\usepackage{cabin}
+
+\usepackage{censor}
+\usepackage{tikz}
+
+\usepackage[protrusion=true,expansion=true]{microtype}
+\usepackage{lettrine}
+
+\usepackage{csquotes}
+\MakeOuterQuote{"}
+
+\usepackage{amssymb}
+
+% FONT SETTINGS
+% Charter
+%\renewcommand{\rmdefault}{bch}
+% Palatino
+\renewcommand{\rmdefault}{ppl}
+% Latin Modern
+%\renewcommand{\rmdefault}{lmr}
+% Helvetica
+\renewcommand{\sfdefault}{phv}
+% Latin Modern Sans
+%\renewcommand{\sfdefault}{lmss}
+% Latin Modern Typewriter
+\renewcommand{\ttdefault}{lmtt}
+
+% Prefer tightly-packed listings
+\tightlists
+
+
+% NEW ENVIRONMENTS
+\newenvironment{chatlog}
+{
+\fontfamily{lmtt}\selectfont
+\begin{flushleft}
+}
+{
+\end{flushleft}
+\par
+}
+
+
+\newenvironment{memo}
+{\sffamily}
+{\rmfamily}
+
+\newenvironment{email}
+{
+\sffamily
+\nonzeroparskip
+}
+{\rmfamily}
+
+
+%% MEMOIR SETTINGS
+\chapterstyle{dowding}
+
+\setlength{\beforechapskip}{50pt}
+\setlength{\midchapskip}{20pt}
+\setlength{\afterchapskip}{40pt}
+
+% Dots in TOC please
+\renewcommand{\cftchapterdotsep}{\cftdotsep}
+
+
+%%% Stuff for fancy breaks
+\newcommand{\motif}[1]{\cleaders\hbox{#1}\hfil}
+\newcommand{\chain}[2]{\leavevmode\hbox to #2{\motif{#1}}}
+\makeatletter
+\newcommand{\diamonds}{\m@th$\mkern-.6mu \diamond \mkern-.6mu$}
+\newcommand{\dantriright}{\m@th$\mkern-.6mu \blacktriangleright \mkern-.6mu$}
+\newcommand{\dantrileft}{\m@th$\mkern-.6mu \blacktriangleleft \mkern-.6mu$}
+\newcommand{\danbecause}{\m@th$\hspace{0.18em}\because\hspace{0.18em}$}
+\newcommand{\dantherefore}{\m@th$\hspace{0.18em}\therefore\hspace{0.18em}$}
+\makeatother
+
+\newcommand{\danscene}{%
+  \fancybreak{\vspace{2em}\chain{\danbecause}{0.2\textwidth} $\Phi$ \chain{\dantherefore}{0.2\textwidth}\vspace{2em}}%
+}
+
+
+\newcommand{\chapstory}[2]{
+\chapter*{#2}
+\section*{#1}
+\addcontentsline{toc}{chapter}{#1 --- #2}
+}
+
+% Lowercase smallcaps
+\newcommand\textlcsc[1]{\textsc{\MakeLowercase{#1}}}
+
+
+%% BEGIN TITLE
+
+\newcommand*{\titleAM}{\begingroup%
+\centering
+\vspace*{24pt}
+{\large Speculative Technologies}\\[\baselineskip]
+{\HUGE \scshape 2020}\\[\baselineskip]
+{\scshape Stories}\\[\baselineskip]
+\vfill\null
+\endgroup}
+
+
+\author{Speculative Technologies}
+\title{2020}
+
+
