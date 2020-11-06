@@ -6,4 +6,3 @@ Dropcaps!
 
 line in toc at a certain point: \addtocontents{toc}{\protect\mbox{}\protect\hrulefill\par}
 
-2-up for printing? chapbook.tex
