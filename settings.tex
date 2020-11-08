@@ -18,6 +18,9 @@
 
 \usepackage{amssymb}
 
+% My hack for no space between TOC and first story
+\usepackage{notocspace}
+
 % FONT SETTINGS
 % Charter
 %\renewcommand{\rmdefault}{bch}
@@ -61,11 +64,11 @@
 
 
 %% MEMOIR SETTINGS
-\chapterstyle{dowding}
+\chapterstyle{section}
 
-\setlength{\beforechapskip}{50pt}
+\setlength{\beforechapskip}{20pt}
 \setlength{\midchapskip}{20pt}
-\setlength{\afterchapskip}{40pt}
+\setlength{\afterchapskip}{20pt}
 
 % Dots in TOC please
 \renewcommand{\cftchapterdotsep}{\cftdotsep}
@@ -82,32 +85,39 @@
 \newcommand{\dantherefore}{\m@th$\hspace{0.18em}\therefore\hspace{0.18em}$}
 \makeatother
 
-\newcommand{\danscene}{%
-  \fancybreak{\vspace{2em}\chain{\danbecause}{0.2\textwidth} $\Phi$ \chain{\dantherefore}{0.2\textwidth}\vspace{2em}}%
+% TODO: Nice splitter
+\newcommand{\specscene}{%
+  \fancybreak{\vspace{2em}\chain{\diamonds}{0.3\textwidth} \vspace{2em}}%
 }
 
 
 
 \newcommand{\chapstory}[2]{
-  \chapter*{\textbf{#2} -- #1}
-%\section*{#1}
+
+\vspace{40pt}
+
+\noindent
+{%
+\Large
+\textsc{\textbf{#2}}
+}
+\newline
+\emph{\large{#1}}
+\vspace{4pt}
+\hrule
+\vspace{20pt}
 \addcontentsline{toc}{chapter}{#1 -- #2}
+
 }
 
 % Lowercase smallcaps
 \newcommand\textlcsc[1]{\textsc{\MakeLowercase{#1}}}
 
 
-%% BEGIN TITLE
+% "appeared in"
+\newcommand\appearedin[1]{\vspace*{20pt}\hspace*{\fill}\small{(first appeared in \emph{#1})}}
 
-\newcommand*{\titleAM}{\begingroup%
-\centering
-\vspace*{24pt}
-{\large Speculative Technologies}\\[\baselineskip]
-{\HUGE \scshape 2020}\\[\baselineskip]
-{\scshape Stories}\\[\baselineskip]
-\vfill\null
-\endgroup}
+%% BEGIN TITLE
 
 
 \author{Speculative Technologies}
