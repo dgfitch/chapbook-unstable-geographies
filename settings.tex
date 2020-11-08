@@ -2,13 +2,11 @@
 \usepackage[utf8]{inputenc}
 
 \usepackage[T1]{fontenc}
-%\usepackage{newpxtext,newpxmath}
-%\usepackage{tgtermes}
-\usepackage{charter}
+\usepackage{fontaxes}
 \usepackage{cabin}
 
-\usepackage{censor}
 \usepackage{tikz}
+\usepackage{pgfornament}
 
 \usepackage[protrusion=true,expansion=true]{microtype}
 \usepackage{lettrine}
@@ -26,10 +24,12 @@
 %\renewcommand{\rmdefault}{bch}
 % Palatino
 \renewcommand{\rmdefault}{ppl}
+% Utopia
+%\renewcommand{\rmdefault}{put}
 % Latin Modern
 %\renewcommand{\rmdefault}{lmr}
 % Helvetica
-\renewcommand{\sfdefault}{phv}
+\renewcommand{\sfdefault}{cabin}
 % Latin Modern Sans
 %\renewcommand{\sfdefault}{lmss}
 % Latin Modern Typewriter
@@ -40,7 +40,7 @@
 
 
 % NEW ENVIRONMENTS
-\newenvironment{chatlog}
+\newenvironment{monotype}
 {
 \fontfamily{lmtt}\selectfont
 \begin{flushleft}
@@ -73,7 +73,6 @@
 % Dots in TOC please
 \renewcommand{\cftchapterdotsep}{\cftdotsep}
 
-
 %%% Stuff for fancy breaks
 \newcommand{\motif}[1]{\cleaders\hbox{#1}\hfil}
 \newcommand{\chain}[2]{\leavevmode\hbox to #2{\motif{#1}}}
@@ -85,28 +84,38 @@
 \newcommand{\dantherefore}{\m@th$\hspace{0.18em}\therefore\hspace{0.18em}$}
 \makeatother
 
-% TODO: Nice splitter
-\newcommand{\specscene}{%
+\newcommand{\scenediamonds}{%
   \fancybreak{\vspace{2em}\chain{\diamonds}{0.3\textwidth} \vspace{2em}}%
+}
+
+\newcommand{\specscene}{%
+  \fancybreak{\vspace{2em}\pgfornament[width=2in]{82} \vspace{2em}}%
+}
+
+\newcommand{\specsep}{%
+  \fancybreak{\vspace{2em}\pgfornament[width=3in]{88} \vspace{2em}}%
+}
+
+\newcommand{\spectitlesep}{%
+  \newline\vspace{1pt}\pgfornament[width=1in]{82} \vspace{8pt}%
 }
 
 
 
 \newcommand{\chapstory}[2]{
 
-\vspace{40pt}
+\vspace{2em}
 
 \noindent
 {%
-\Large
+\LARGE
+\cabin
 \textsc{\textbf{#2}}
 }
 \newline
-\emph{\large{#1}}
-\vspace{4pt}
-\hrule
-\vspace{20pt}
-\addcontentsline{toc}{chapter}{#1 -- #2}
+\emph{\Large{#1}}
+\spectitlesep
+\addcontentsline{toc}{chapter}{#2 -- #1}
 
 }
 
@@ -115,12 +124,13 @@
 
 
 % "appeared in"
-\newcommand\appearedin[1]{\vspace*{20pt}\hspace*{\fill}\small{(first appeared in \emph{#1})}}
+\newcommand\appearedin[1]{\vspace*{16pt}\hspace*{\fill}{\small(first appeared in \emph{#1})}}
+
+
 
 %% BEGIN TITLE
 
 
 \author{Speculative Technologies}
 \title{2020}
-
 
