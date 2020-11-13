@@ -1,6 +1,5 @@
-Table of Contents - reduce vspace between entries
+Table of Contents - reduce vspace between entries? reformat?
 
 line in toc at a certain point: \addtocontents{toc}{\protect\mbox{}\protect\hrulefill\par}
 
-NO page after TOC has fucked up the margins
-
+Variex included using directions from http://www.tug.org/TUGboat/Articles/tb27-1/tb86kroonenberg-fonts.pdf

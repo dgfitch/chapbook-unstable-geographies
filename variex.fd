@@ -1,0 +1,3 @@
+\ProvidesFile{variex.fd}
+\DeclareFontFamily{LY1}{variex}{}
+\DeclareFontShape{LY1}{variex}{m}{n}{<-> variex8y }{}
