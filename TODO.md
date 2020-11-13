@@ -5,4 +5,5 @@ toc:
 to ensure:
   double spaces
   spaces around ldots
+  no spaces around em dash
   period followed by ellipsis
