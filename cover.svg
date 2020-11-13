@@ -7,6 +7,7 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="12in"
@@ -14,7 +15,7 @@
    viewBox="0 0 304.8 241.3"
    version="1.1"
    id="svg8"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
    sodipodi:docname="cover.svg">
   <defs
      id="defs2" />
@@ -25,15 +26,15 @@
      borderopacity="1.0"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="802.79711"
-     inkscape:cy="410.91528"
+     inkscape:zoom="1.4"
+     inkscape:cx="846.41053"
+     inkscape:cy="367.34698"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      showgrid="false"
      units="in"
-     inkscape:window-width="1366"
-     inkscape:window-height="722"
+     inkscape:window-width="3840"
+     inkscape:window-height="2134"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -73,15 +74,30 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
      inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="BG">
+    <image
+       sodipodi:absref="/home/dfitch/git/2020-chapbook/jar1.jpg"
+       xlink:href="jar1.jpg"
+       width="136.02174"
+       height="210.19434"
+       preserveAspectRatio="none"
+       style="image-rendering:optimizeQuality"
+       id="image1070"
+       x="156.07826"
+       y="18.405663" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Outlines"
-     style="display:inline"
+     style="display:none"
      transform="translate(0,25.4)">
     <rect
        style="opacity:1;fill:none;fill-opacity:1;stroke:#c92121;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:1.00000003, 3.00000008;stroke-dashoffset:0;stroke-opacity:0.78061224;paint-order:markers fill stroke"
@@ -119,16 +135,16 @@
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:22.73654556px;line-height:1;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.56841367"
        x="225.51164"
-       y="98.630676"
+       y="102.86398"
        id="text842"><tspan
          sodipodi:role="line"
          x="225.51164"
-         y="98.630676"
+         y="102.86398"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:Variex;-inkscape-font-specification:Variex;text-align:center;text-anchor:middle;stroke-width:0.56841367"
          id="tspan844">unStable</tspan><tspan
          sodipodi:role="line"
          x="225.51164"
-         y="122.6954"
+         y="126.9287"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:Variex;-inkscape-font-specification:Variex;text-align:center;text-anchor:middle;stroke-width:0.56841367"
          id="tspan847">orbits</tspan></text>
     <text
@@ -156,18 +172,18 @@
     <flowRoot
        xml:space="preserve"
        id="flowRoot858"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:40px;line-height:50%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.53083431px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
        transform="matrix(0.22844807,0,0,0.22844807,-103.91017,77.757878)"><flowRegion
          id="flowRegion860"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:50%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';text-align:center;text-anchor:middle"><rect
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:50%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-anchor:middle;font-size:18.53083431px;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"><rect
            id="rect862"
            width="495.98499"
            height="244.45689"
            x="551.54327"
            y="80.608948"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:50%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';text-align:center;text-anchor:middle" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:50%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-anchor:middle;font-size:18.53083431px;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;" /></flowRegion><flowPara
          id="flowPara874"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:21.61930656px;line-height:50%;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle">is a group of science-fiction/fantasy/horror writers based in Madison, the capital of Wisconsin, where beer and serial killers abound, and a vast network of brain-warping minerals were deposited as the glaciers retreated... at any rate, something needs to take the blame for all this.</flowPara></flowRoot>    <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.53083431px;line-height:50%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr;text-anchor:middle;">is a group of science-fiction/fantasy/horror writers based in Madison, the capital of Wisconsin, where beer and serial killers abound, and a vast network of brain-warping minerals were deposited as the glaciers retreated... at any rate, something needs to take the blame for all this.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot866"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;line-height:1.25;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
@@ -181,12 +197,12 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L'" /></flowRegion><flowPara
          id="flowPara872" /></flowRoot>    <text
        id="text892"
-       y="270.50381"
+       y="274.73721"
        x="167.8409"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.40761471px;line-height:1.25;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.31019038"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.40761471px;line-height:1.25;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:0px;word-spacing:0px;fill:#85a6f5;fill-opacity:1;stroke:#000000;stroke-width:1.80999994;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
        xml:space="preserve"><tspan
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.40760517px;font-family:Tube;-inkscape-font-specification:'Tube, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.31019038"
-         y="270.50381"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.40760517px;font-family:Tube;-inkscape-font-specification:'Tube, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#85a6f5;fill-opacity:1;stroke:#000000;stroke-width:1.80999994;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
+         y="274.73721"
          x="167.8409"
          id="tspan890"
          sodipodi:role="line">Speculative Technologies</tspan></text>
