@@ -4,6 +4,15 @@
 \usepackage[T1]{fontenc}
 \usepackage{fontaxes}
 \usepackage{cabin}
+\usepackage{texnansi}
+\pdfmapfile{=tube8y.map}
+\pdfmapfile{=variex8y.map}
+
+\newcommand{\tubefont}%
+  {\fontfamily{tube}\selectfont}
+
+\newcommand{\variexfont}%
+  {\fontfamily{variex}\selectfont}
 
 \usepackage{tikz}
 \usepackage{pgfornament}
@@ -115,7 +124,7 @@
 \newline
 \emph{\Large{#1}}
 \spectitlesep
-\addcontentsline{toc}{chapter}{#2 -- #1}
+\addcontentsline{toc}{chapter}{{\cabin #2} -- \textit{#1}}
 
 }
 

@@ -1,5 +1,8 @@
-Table of Contents - reduce vspace between entries? reformat?
+toc:
+  reduce vspace between entries? reformat?
+  remove Contents header
 
-line in toc at a certain point: \addtocontents{toc}{\protect\mbox{}\protect\hrulefill\par}
-
-Variex included using directions from http://www.tug.org/TUGboat/Articles/tb27-1/tb86kroonenberg-fonts.pdf
+to ensure:
+  double spaces
+  spaces around ldots
+  period followed by ellipsis
