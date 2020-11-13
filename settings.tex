@@ -2,22 +2,23 @@
 \usepackage[utf8]{inputenc}
 
 \usepackage[T1]{fontenc}
+\usepackage{lettrine}
 \usepackage{fontaxes}
+\usepackage{fontspec}
 \usepackage{cabin}
-\usepackage{texnansi}
-\pdfmapfile{=tube8y.map}
-\pdfmapfile{=variex8y.map}
 
-\newcommand{\tubefont}%
-  {\fontfamily{tube}\selectfont}
-
-\newcommand{\variexfont}%
-  {\fontfamily{variex}\selectfont}
+\newfontfamily{\fonttube}{tube}
+\newfontfamily{\fontvariex}{variex}
 
 \usepackage{pgfornament}
 
+\newcommand{\tubefont}%
+  {\fonttube}
+
+\newcommand{\variexfont}%
+  {\fontvariex}
+
 \usepackage[protrusion=true,expansion=true]{microtype}
-\usepackage{lettrine}
 
 \usepackage{csquotes}
 \MakeOuterQuote{"}
@@ -27,21 +28,9 @@
 % My hack for no space between TOC and first story
 \usepackage{notocspace}
 
-% FONT SETTINGS
-% Charter
-%\renewcommand{\rmdefault}{bch}
 % Palatino
-\renewcommand{\rmdefault}{ppl}
-% Utopia
-%\renewcommand{\rmdefault}{put}
-% Latin Modern
-%\renewcommand{\rmdefault}{lmr}
-% Helvetica
-\renewcommand{\sfdefault}{cabin}
-% Latin Modern Sans
-%\renewcommand{\sfdefault}{lmss}
-% Latin Modern Typewriter
-\renewcommand{\ttdefault}{lmtt}
+\usepackage{newpxtext}
+
 
 % Prefer tightly-packed listings
 \tightlists

@@ -16,7 +16,10 @@
    version="1.1"
    id="svg8"
    inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
-   sodipodi:docname="cover.svg">
+   sodipodi:docname="cover.svg"
+   inkscape:export-filename="/home/dfitch/git/2020-chapbook/cover.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
   <defs
      id="defs2" />
   <sodipodi:namedview
@@ -85,12 +88,23 @@
     <image
        sodipodi:absref="/home/dfitch/git/2020-chapbook/jar1.jpg"
        xlink:href="jar1.jpg"
+       y="18.405663"
+       x="156.07826"
+       id="image1070"
+       style="image-rendering:optimizeQuality"
+       preserveAspectRatio="none"
+       height="210.19434"
+       width="136.02174" />
+    <image
+       sodipodi:absref="/home/dfitch/git/2020-chapbook/jar1.jpg"
+       xlink:href="jar1.jpg"
+       transform="scale(-1,1)"
        width="136.02174"
        height="210.19434"
        preserveAspectRatio="none"
        style="image-rendering:optimizeQuality"
-       id="image1070"
-       x="156.07826"
+       id="image859"
+       x="-156.07826"
        y="18.405663" />
   </g>
   <g
@@ -134,56 +148,56 @@
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:22.73654556px;line-height:1;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.56841367"
-       x="225.51164"
+       x="224.45332"
        y="102.86398"
        id="text842"><tspan
          sodipodi:role="line"
-         x="225.51164"
+         x="224.45332"
          y="102.86398"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:Variex;-inkscape-font-specification:Variex;text-align:center;text-anchor:middle;stroke-width:0.56841367"
          id="tspan844">unStable</tspan><tspan
          sodipodi:role="line"
-         x="225.51164"
-         y="126.9287"
+         x="224.45332"
+         y="126.92871"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:1;font-family:Variex;-inkscape-font-specification:Variex;text-align:center;text-anchor:middle;stroke-width:0.56841367"
          id="tspan847">orbits</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75806808px;line-height:1.25;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.2189517"
-       x="37.835659"
+       x="41.539829"
        y="93.156296"
        id="text848"><tspan
          sodipodi:role="line"
          id="tspan846"
-         x="37.835659"
+         x="41.539829"
          y="93.156296"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.75806141px;font-family:Tube;-inkscape-font-specification:'Tube, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.2189517">Speculative Technologies</tspan></text>
     <text
        id="text854"
-       y="148.12886"
-       x="78.71788"
-       style="font-style:normal;font-weight:normal;font-size:9.13945103px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.22848628"
+       y="133.93901"
+       x="82.444206"
+       style="font-style:normal;font-weight:normal;font-size:7.55727291px;line-height:1.25;font-family:sans-serif;text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.18893184"
        xml:space="preserve"><tspan
          id="tspan852"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Variex;-inkscape-font-specification:Variex;text-align:center;text-anchor:middle;stroke-width:0.22848628"
-         y="148.12886"
-         x="78.71788"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Variex;-inkscape-font-specification:Variex;text-align:center;text-anchor:middle;stroke-width:0.18893184"
+         y="133.93901"
+         x="82.444206"
          sodipodi:role="line">Contributors</tspan></text>
     <flowRoot
        xml:space="preserve"
        id="flowRoot858"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.53083431px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"
-       transform="matrix(0.22844807,0,0,0.22844807,-103.91017,77.757878)"><flowRegion
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.5308342px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.22844807,0,0,0.22844807,-100.20598,77.757878)"><flowRegion
          id="flowRegion860"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:50%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-anchor:middle;font-size:18.53083431px;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;"><rect
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.5308342px;line-height:50%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle"><rect
            id="rect862"
            width="495.98499"
            height="244.45689"
            x="551.54327"
            y="80.608948"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:50%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';text-align:center;text-anchor:middle;font-size:18.53083431px;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;" /></flowRegion><flowPara
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.5308342px;line-height:50%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle" /></flowRegion><flowPara
          id="flowPara874"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.53083431px;line-height:50%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr;text-anchor:middle;">is a group of science-fiction/fantasy/horror writers based in Madison, the capital of Wisconsin, where beer and serial killers abound, and a vast network of brain-warping minerals were deposited as the glaciers retreated... at any rate, something needs to take the blame for all this.</flowPara></flowRoot>    <flowRoot
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.44236192px;line-height:50%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr;text-anchor:middle">is a group of science-fiction/fantasy/horror writers based in Madison, the capital of Wisconsin, where beer and serial killers abound, and a vast network of brain-warping minerals were deposited as the glaciers retreated... at any rate, something needs to take the blame for all this.</flowPara></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot866"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:26.66666603px;line-height:1.25;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"><flowRegion
@@ -198,12 +212,12 @@
          id="flowPara872" /></flowRoot>    <text
        id="text892"
        y="274.73721"
-       x="167.8409"
+       x="166.78258"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.40761471px;line-height:1.25;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L';letter-spacing:0px;word-spacing:0px;fill:#85a6f5;fill-opacity:1;stroke:#000000;stroke-width:1.80999994;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.40760517px;font-family:Tube;-inkscape-font-specification:'Tube, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#85a6f5;fill-opacity:1;stroke:#000000;stroke-width:1.80999994;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke markers fill"
          y="274.73721"
-         x="167.8409"
+         x="166.78258"
          id="tspan890"
          sodipodi:role="line">Speculative Technologies</tspan></text>
     <text
@@ -243,5 +257,41 @@
          id="flowPara916"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle">Bhim Nimgade</flowPara><flowPara
          id="flowPara912"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle" /></flowRoot>  </g>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.66666603px;font-family:'URW Gothic L';-inkscape-font-specification:'URW Gothic L, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle" /></flowRoot>    <flowRoot
+       transform="matrix(0.22844807,0,0,0.22844807,-117.78187,118.76831)"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.5308342px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       id="flowRoot869"
+       xml:space="preserve"><flowRegion
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.5308342px;line-height:50%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle"
+         id="flowRegion865"><rect
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.5308342px;line-height:50%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle"
+           y="80.608948"
+           x="551.54327"
+           height="244.45689"
+           width="495.98499"
+           id="rect863" /></flowRegion><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.44236183px;line-height:50%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle"
+         id="flowPara867">F. J. Bergmann</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.44236183px;line-height:50%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle"
+         id="flowPara871">Andy Dibble</flowPara><flowPara
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.44236183px;line-height:50%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle"
+         id="flowPara879">Dan Fitch</flowPara></flowRoot>    <flowRoot
+       xml:space="preserve"
+       id="flowRoot897"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.5308342px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.22844807,0,0,0.22844807,-81.874132,118.76831)"><flowRegion
+         id="flowRegion883"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.5308342px;line-height:50%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle"><rect
+           id="rect881"
+           width="495.98499"
+           height="244.45689"
+           x="551.54327"
+           y="80.608948"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.5308342px;line-height:50%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle" /></flowRegion><flowPara
+         id="flowPara891"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.44236183px;line-height:50%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle">Julie Fitzpatrick</flowPara><flowPara
+         id="flowPara893"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.44236183px;line-height:50%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle">Jesse Giallombardo</flowPara><flowPara
+         id="flowPara895"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15.44236183px;line-height:50%;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle">Bhim Nimgade</flowPara></flowRoot>  </g>
 </svg>
