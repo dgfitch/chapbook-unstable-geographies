@@ -35,7 +35,10 @@ is in book.tex. And I use a two step process to get things laid out.
 To build the internal content:
 
     lualatex book.tex
+    lualatex book.tex
     pdflatex chapbook.tex
+
+Twice to get the TOC pages right.
 
 It was easier to lay out the pages and take a second step to assemble them.
 
