@@ -1,3 +1,5 @@
+test print run, ensure variex light ttf is in repo
+
 cover:
   finish!
 
