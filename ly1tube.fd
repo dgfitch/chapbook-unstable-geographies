@@ -1,3 +1,0 @@
-\ProvidesFile{ly1tube.fd}
-\DeclareFontFamily{LY1}{tube}{}
-\DeclareFontShape{LY1}{tube}{m}{n}{<-> tube8y }{}
